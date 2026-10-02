@@ -1,1 +1,2 @@
 # odin-recipes
+For this project, titled "Recipes," I will create an HTML webpage to gauge my progress in understanding programming and writing code in this language; this is just the beginning of a long journey.
