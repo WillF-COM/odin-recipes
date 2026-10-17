@@ -1,0 +1,35 @@
+body {
+    background-color: bisque;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: green;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    padding: 6px;
+    border: 6px double red;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 6px;
+    text-align: center;
+}
+
+ul {
+    border: 12px;
+    font-size: 20px;
+    font-display: auto;
+    margin-left: 20px;
+    background-color: white;
+    padding: 35px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    border: 6px double red;
+}
+
+p {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 20px;
+text-align: center;
+}
