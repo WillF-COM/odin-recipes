@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: antiquewhite;
     box-sizing: border-box;
 }
 
@@ -16,20 +16,31 @@ h1 {
     text-align: center;
 }
 
+li{
+    display: inline-flex;
+    margin-inline-start: 110px;
+    color: green;
+}
+
+
+
 ul {
-    border: 12px;
-    font-size: 20px;
-    font-display: auto;
-    margin-left: 20px;
+    font-size: 22px;
+    margin-left: 100px;
     background-color: white;
-    padding: 35px;
-    margin-right: 20px;
-    margin-bottom: 40px;
-    border: 6px double red;
+    padding: 25px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    border: 12px double red;
 }
 
 p {
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 margin-left: 20px;
-text-align: center;
+font-size: 25px;
+margin-bottom: 1px;
+margin-left: 340px;
+font-weight: bold;
+color: green;
 }
