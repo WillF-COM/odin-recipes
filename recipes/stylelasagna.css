@@ -5,10 +5,11 @@ body{
 
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    border: 2px solid red;
-    margin-right: 563px;
-    padding: 5px;
+    margin-right: 700px;
+    padding: 2px;
     margin-left: 15px;
+    background-color: rgb(205,92,92);
+    
  }
 
 button{
@@ -39,10 +40,29 @@ h4{
 .ingre{
     border: solid black 1px;
     margin-right: 12px;
+    background-color: rgb(205,92,92);
 }
 .ingres{
     border: solid black 1px;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-right: 12px;
+    background-color: rgb(205,92,92);
+}
+
+.asem{
+    border: solid black 1px;
+    margin-right: 12px;
+    background-color: rgb(205,92,92);
+}
+
+.rela{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+
+}
+
+.but{
+    margin-bottom: 15px;
+    margin-left: 400px;
 }
